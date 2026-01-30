@@ -8,7 +8,7 @@ plugins {
 
 buildscript {
     dependencies {
-        classpath("com.android.tools.build:gradle:8.1.0") // Example AGP Vers
+        classpath("com.android.tools.build:gradle:8.1.0") // Example AGP Versi
         // Add other classpaths if needed
     }
 }
