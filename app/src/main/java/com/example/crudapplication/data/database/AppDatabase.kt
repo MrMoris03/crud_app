@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.studentcrudapp.data.dao.Stude
+import com.example.studentcrudapp.data.dao.Studen
 import com.example.studentcrudapp.data.entity.Student
 
 @Database(entities = [Student::class], version = 1)
