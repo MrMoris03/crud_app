@@ -1,4 +1,4 @@
-package com.example.studentcrudapp.data.
+package com.example.studentcrudapp.data.d
 
 import androidx.room.*
 import com.example.studentcrudapp.data.entity.Student
